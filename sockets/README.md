@@ -38,7 +38,7 @@ Aucune dépendance supplémentaire n'est requise.
    ```
 
    Vous devriez voir un message indiquant que le serveur est en écoute:
-   [Capture d'écran du serveur](Execution client.png)
+   [Capture d'écran du serveur](./Execution client.png)
 
 
 ### Exécuter le client
