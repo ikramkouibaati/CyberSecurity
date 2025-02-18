@@ -37,7 +37,9 @@ Aucune dépendance supplémentaire n'est requise.
    python server.py
    ```
 
-   Vous devriez voir un message indiquant que le serveur est en écoute.
+   Vous devriez voir un message indiquant que le serveur est en écoute:
+   ![Capture d'écran du serveur](Execution client.png)
+
 
 ### Exécuter le client
 1. Ouvrez un **nouveau terminal** et naviguez vers le répertoire du projet.
@@ -47,7 +49,8 @@ Aucune dépendance supplémentaire n'est requise.
    python client.py
    ```
 
-   Vous devriez voir le message envoyé et la réponse retournée par le serveur.
+   Vous devriez voir le message envoyé et la réponse retournée par le serveur:
+   ![Capture d'écran du serveur](Connexion server.png)
 
 ---
 
