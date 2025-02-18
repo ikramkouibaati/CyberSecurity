@@ -38,7 +38,7 @@ Aucune dépendance supplémentaire n'est requise.
    ```
 
    Vous devriez voir un message indiquant que le serveur est en écoute:
-   [Capture d'écran du serveur](./Execution client.png)
+   ![Capture d'écran du serveur](sockets/Execution client.png)
 
 
 ### Exécuter le client
@@ -50,7 +50,7 @@ Aucune dépendance supplémentaire n'est requise.
    ```
 
    Vous devriez voir le message envoyé et la réponse retournée par le serveur:
-   [Capture d'écran du serveur](Connexion server.png)
+   ![Capture d'écran du serveur](sockets/Connexion server.png)
 
 ---
 
